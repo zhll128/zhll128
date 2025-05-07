@@ -22,3 +22,6 @@
 ### 🔗 Connect with me:
  [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhelloahzarel13@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zhll128)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zhll128) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zhll128)
 
+<p align = "center">
+	<img src = "https://github.com/zhll128/zhll128/blob/main/github-user-contribution.svg" alt = "Snake Game"/>
+</p>
