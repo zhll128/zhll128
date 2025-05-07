@@ -16,6 +16,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhll128/zhll128/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhll128/zhll128/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zhll128/zhll128/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zhll128&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
