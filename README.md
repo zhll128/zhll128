@@ -11,7 +11,7 @@
 
 ### 🎧 Recently played
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z56qz5ruixvoqxf5ajwvia5qjq&unique={true|1|on|yes}" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z56qz5ruixvoqxf5ajwvia5qjq&width=1000&unique=true" alt="Spotify recently played"  />
 </div>
 
 ###
