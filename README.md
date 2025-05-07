@@ -17,7 +17,6 @@
 ### 💻 Curently learning:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,c,vscode" />
-  </a>
 </p>
 
 ### 🔗 Connect with me:
